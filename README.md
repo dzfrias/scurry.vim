@@ -7,4 +7,4 @@ and some stylistic options for the
 It isn't perfect, but it makes the editing experience a bit better.
 
 ## License
-scurry.vim plugin is licensed under the MIT license.
+scurry.vim is licensed under the MIT license.
